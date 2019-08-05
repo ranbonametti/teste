@@ -1,0 +1,6 @@
+-Make sure you remove "_2.0" by renaming the exe file and run it.
+
+-Open the SamSharePointFarmMonitoring.exe using your SharePoint Farm Admin Account(means this account should have full access to Servers in the Farm) or you can copy this exe to your SharePoint server and open it.
+
+Please post your question/comment/feedback in the below link.
+http://sam-sharepoint-products.blogspot.de/2016/11/sharepoint-20102013-farm-performance.html
